@@ -9,7 +9,7 @@ Vue组件，自带图片预览、预览动画的Image组件
 
 #### 安装教程
 
-1. npm install auto-preview-image --save
+    npm install auto-preview-image --save
 
 #### 使用说明
 
