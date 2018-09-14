@@ -3,8 +3,7 @@
 #### 项目介绍
 Vue组件，自带图片预览、预览动画的Image组件
 
-[![alt text](https://github.com/purestart/auto-preview-image/tree/master/src/screenshot/sample1.gif)](https://github.com/purestart/auto-preview-image/tree/master/src/screenshot/sample1.gif)
-
+[![alt text](https://github.com/purestart/auto-preview-image/tree/master/src/screenshot/sample1.gif)]
 #### 软件架构
 软件架构说明
 
