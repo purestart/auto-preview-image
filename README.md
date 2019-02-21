@@ -1,12 +1,14 @@
 # auto-preview-image
 
 #### 项目介绍
-Vue组件，自带图片预览、预览动画的Image组件
 
-![image](http://onf2hckia.bkt.clouddn.com/sample1.gif)
+Vue 组件，自带图片预览、预览动画的 Image 组件
+
+![image](https://gitee.com/_pure/codes/dn4u2bw65zxemfklcao9i45/raw?blob_name=sample1.gif)
+
 #### 软件架构
-软件架构说明
 
+软件架构说明
 
 #### 安装教程
 
