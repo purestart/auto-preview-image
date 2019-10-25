@@ -16,17 +16,18 @@
 
 <script>
 
+
 export default {
   name: 'el-index',
-  components: {
+  components:{
   },
-  data () {
-    return {
-      imgUrl: 'http://data618.oss-cn-qingdao.aliyuncs.com/ys/3524/img/b.jpg'
-    };
+  data(){
+    return{
+          imgUrl:"http://data618.oss-cn-qingdao.aliyuncs.com/ys/3524/img/b.jpg"
+    }
   },
-  mounted () {
-    console.log('mounted');
+  mounted(){
+
   }
 };
 </script>
